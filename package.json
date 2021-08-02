@@ -36,5 +36,13 @@
     "webpack": "^5.47.1",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyLzq/webpack-course-react-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnthonyLzq/webpack-course-react-example/issues"
+  },
+  "homepage": "https://github.com/AnthonyLzq/webpack-course-react-example#readme"
 }
