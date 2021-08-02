@@ -17,6 +17,13 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "standard-version": "^9.3.1"
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "standard-version": "^9.3.1",
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
   }
 }
